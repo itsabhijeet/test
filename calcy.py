@@ -13,3 +13,7 @@ def divide(x,y):
 
 def kamm25():
     return 25 works
+
+
+def gcd(a,b):
+     return __gcd(a,b)
