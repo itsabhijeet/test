@@ -9,3 +9,7 @@ def multiply(x,y):
 
 def divide(x,y):
     return x/y	
+
+
+def kamm25():
+    return 25 works
